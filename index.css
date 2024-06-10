@@ -1,5 +1,10 @@
 #topheader {
-    color: blue;
+    color: steelblue;
     text-align: center;
-    font-size: 30px;
+    font-size: 50px;
   }
+
+#bodytext {
+  display: table;
+  color: blue;
+}
