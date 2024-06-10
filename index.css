@@ -1,10 +1,19 @@
 #topheader {
-    color: steelblue;
-    text-align: center;
-    font-size: 50px;
-  }
+  color: steelblue;
+  text-align: center;
+  font-size: 50px;
+  font-family: 'Courier New', Courier, monospace;
+  font-variant: small-caps;
+}
 
 #bodytext {
   display: table;
   color: blue;
+}
+
+#nixlink {
+  color: steelblue;
+  font-size: 50px;
+  font-family: monospace;
+  font-variant: small-caps;
 }
