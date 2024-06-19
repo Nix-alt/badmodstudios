@@ -85,7 +85,10 @@ svg {
   }
 }
 
-
+#bt{
+  float: left;
+  text-align: center;
+}
 
 button {  
   color: var(--color);
