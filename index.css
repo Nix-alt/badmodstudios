@@ -85,8 +85,9 @@ svg {
   }
 }
 
-.raise{
-  height: 25%;
+.raise::after {
+  content: '\a';
+  white-space: pre;
 }
 
 
