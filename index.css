@@ -5,6 +5,7 @@ html, body{
   font-weight: 800;
   margin: 0;
   padding: 0;
+  float: right;
 }
 
 body{
@@ -69,10 +70,6 @@ svg {
 .raise:focus {
   box-shadow: 0 0.5em 0.5em -0.4em var(--hover);
   transform: translateY(-0.25em);
-}
-
-.raise {
-  float: left
 }
 
 .offset {  
