@@ -85,6 +85,10 @@ svg {
   }
 }
 
+.raise{
+  height: 25%;
+}
+
 
 button {  
   color: var(--color);
