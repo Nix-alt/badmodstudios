@@ -25,6 +25,7 @@ svg {
     width: 960px;
     height: 300px;
     margin: 0 auto;
+    text-align: center;
 }
 
 .text-copy {
@@ -86,8 +87,6 @@ svg {
 
 
 button {  
-  text-align: center;
-  position: relative;
   color: var(--color);
   transition: 0.25s;
   
