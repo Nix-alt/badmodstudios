@@ -85,11 +85,6 @@ svg {
   }
 }
 
-#bt{
-  float: left;
-  text-align: left;
-}
-
 button {  
   color: var(--color);
   transition: 0.25s;
