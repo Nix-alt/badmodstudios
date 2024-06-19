@@ -85,10 +85,6 @@ svg {
   }
 }
 
-.raise::after {
-  content: '\a';
-  white-space: pre;
-}
 
 
 button {  
